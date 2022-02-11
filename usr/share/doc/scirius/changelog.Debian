@@ -1,0 +1,631 @@
+scirius (3.4.0-5) stamus; urgency=medium
+
+  * Internal release
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 12 Mar 2020 14:38:31 +0100
+
+scirius (3.4.0-4) stamus; urgency=medium
+
+  * Internal release.
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 12 Mar 2020 10:01:10 +0100
+
+scirius (3.4.0-3) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 10 Mar 2020 02:02:28 +0100
+
+scirius (3.4.0-2) stamus; urgency=medium
+
+  * Bootstrap fix.
+
+ -- Eric Leblond <el@stamus-networks.com>  Wed, 29 Jan 2020 11:13:57 +0100
+
+scirius (3.4.0-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Eric Leblond <el@stamus-networks.com>  Sun, 19 Jan 2020 17:25:05 +0100
+
+scirius (3.3.1-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Eric Leblond <el@stamus-networks.com>  Tue, 06 Aug 2019 14:29:35 +0200
+
+scirius (3.3.0-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Laurent Defert <lds@stamus-networks.com>  Thu, 18 Jul 2019 10:48:30 +0200
+
+scirius (3.2.0-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Laurent Defert <lds@stamus-networks.com>  Wed, 13 Mar 2019 09:31:19 +0100
+
+scirius (3.1.0-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Laurent Defert <lds@stamus-networks.com>  Thu, 13 Dec 2018 14:59:36 +0100
+
+scirius (3.0.1-1) stamus; urgency=medium
+
+  * New upstream.
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 29 Nov 2018 14:45:44 +0100
+
+scirius (3.0.0-8) stamus; urgency=medium
+
+  * Misc fixes.
+
+ -- User <lds@stamus-networks.com>  Tue, 16 Oct 2018 22:06:14 +0200
+
+scirius (3.0.0-7) stamus; urgency=medium
+
+  * Push ruleset and Moloch fix.
+
+ -- User <lds@stamus-networks.com>  Wed, 10 Oct 2018 11:08:16 +0200
+
+scirius (3.0.0-6) stamus; urgency=medium
+
+  * Because we need it. 
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 10 Oct 2018 08:45:40 +0200
+
+scirius (3.0.0-5) stamus; urgency=medium
+
+  * Add Moloch.
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 09 Oct 2018 18:19:35 +0200
+
+scirius (3.0.0-4) stamus; urgency=medium
+
+  * Fix ES6 display
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 18 Sep 2018 12:12:22 +0200
+
+scirius (3.0.0-3) stamus; urgency=medium
+
+  * Fix user display issue
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Fri, 14 Sep 2018 14:45:53 +0200
+
+scirius (3.0.0-2) stamus; urgency=medium
+
+  * Fix JS issue
+
+ -- Eric Leblond <elblond@stamus-networks.com>  Thu, 13 Sep 2018 17:54:32 +0200
+
+scirius (3.0.0-1) stamus; urgency=medium
+
+  * 3.0.0 version.
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 12 Sep 2018 13:52:22 +0200
+
+scirius (2.0.3-6) stamus; urgency=medium
+
+  * experimental release
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 12 Sep 2018 10:54:21 +0200
+
+scirius (2.0.3-5) stamus; urgency=medium
+
+  * commands fixes 
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 23 Aug 2018 16:17:01 +0200
+
+scirius (2.0.3-4) stamus; urgency=medium
+
+  * Mini update 
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 06 Aug 2018 21:21:41 +0200
+
+scirius (2.0.3-3) stamus; urgency=medium
+
+  * Unset PYTHONPATH
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 01 Aug 2018 11:38:37 +0200
+
+scirius (2.0.3-2) stamus; urgency=medium
+
+  * To fix
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 01 Aug 2018 11:01:23 +0200
+
+scirius (2.0.3-1) stamus; urgency=medium
+
+  * Upstream 2.0.3
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 25 Jul 2018 17:29:44 +0200
+
+scirius (2.0.2-1) stamus; urgency=medium
+
+  * Upstream 2.0.2
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Fri, 22 Jun 2018 17:30:12 +0200
+
+scirius (2.0.1-1) stamus; urgency=medium
+
+  * Upstream 2.0.1
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Sun, 01 Apr 2018 22:55:30 +0200
+
+scirius (2.0.0-1) stamus; urgency=medium
+
+  * New stable release
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 13 Mar 2018 10:55:53 +0100
+
+scirius (2.0-rc4) stamus; urgency=medium
+
+  * New upstream version 
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 12 Mar 2018 17:05:42 +0100
+
+scirius (2.0-rc3) stamus; urgency=medium
+
+  * New upstream version 2.0-rc3
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 12 Mar 2018 13:05:09 +0100
+
+scirius (2.0-rc2.1) stamus; urgency=medium
+
+  * Fix missing files in viz app
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 07 Mar 2018 16:19:40 +0100
+
+scirius (2.0-rc2) stamus; urgency=medium
+
+  * New upstream version 2.0-rc2
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 07 Mar 2018 14:20:31 +0100
+
+scirius (2.0-rc1) stamus; urgency=medium
+
+  * New upstream version 2.0-rc1
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 05 Mar 2018 14:00:31 +0100
+
+scirius (2.0-b1) stamus; urgency=medium
+
+  * New upstream version 2.0-beta1
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 19 Feb 2018 21:04:44 +0100
+
+scirius (1.2.8-1) stamus; urgency=medium
+
+  * New upstream version 1.2.8 
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 22 Jan 2018 15:03:19 +0100
+
+scirius (1.2.7-1) stamus; urgency=medium
+
+  * New upstream version 1.2.7
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 14 Dec 2017 21:08:47 +0100
+
+scirius (1.2.6-2) stamus; urgency=medium
+
+  * Final version 1.2.6 
+
+ -- Eric Leblond <el@stamus-networks.com>  Fri, 22 Sep 2017 17:12:08 +0200
+
+scirius (1.2.6-1) stamus; urgency=medium
+
+  * New upstream version 1.2.6
+
+ -- Eric Leblond <el@stamus-networks.com>  Tue, 29 Aug 2017 09:40:02 +0200
+
+scirius (1.2.5-2) stamus; urgency=medium
+
+  * Fix kibana dashboard path
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Thu, 24 Aug 2017 15:00:12 +0200
+
+scirius (1.2.5-1) stamus; urgency=medium
+
+  * New upstream version 1.2.5
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 23 Aug 2017 14:47:24 +0200
+
+scirius (1.2.4-1) stamus; urgency=medium
+
+  * New upstream version 1.2.4
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Mon, 31 Jul 2017 14:32:05 +0200
+
+scirius (1.2.2-3) stamus; urgency=medium
+
+  * New upstream version 1.2.2
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 26 Apr 2017 09:46:22 +0200
+
+scirius (1.2.2-2) stamus; urgency=medium
+
+  * New upstream version 1.2.2
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 26 Apr 2017 08:44:12 +0200
+
+scirius (1.2.2-1) stamus; urgency=medium
+
+  * New upstream version 1.2.2
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 25 Apr 2017 15:11:57 +0200
+
+scirius (1.2.1-2) stamus; urgency=medium
+
+  * settings: use ES 5 by default
+  * New upstream version 1.2.1
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 08 Mar 2017 01:00:48 +0100
+
+scirius (1.2.1-1) stamus; urgency=medium
+
+  * New upstream version 1.2.1
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Wed, 08 Mar 2017 00:13:00 +0100
+
+scirius (1.2.0-1) stamus; urgency=medium
+
+  * New upstream version 1.2.0
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Fri, 03 Mar 2017 08:37:50 +0100
+
+scirius (1.1.99-1) stamus; urgency=medium
+
+  * New upstream version 1.1.99
+
+ -- Eric Leblond <eric@regit.org>  Thu, 08 Dec 2016 15:15:23 +0100
+
+scirius (1.1.13-3) stamus; urgency=medium
+
+  * supervisor: add /usr/bin to path
+  * scirius: fix path to git directory
+
+ -- Eric Leblond <eric@regit.org>  Thu, 08 Dec 2016 08:57:23 +0100
+
+scirius (1.1.13-2) stamus; urgency=medium
+
+  * nginx: explicit IPv4 for localhost
+  * scirius: set allowed hosts by default to yes
+  * gunicorn: fix timeout value
+  * New upstream version 1.1.13
+
+ -- Eric Leblond <eric@regit.org>  Tue, 15 Nov 2016 01:34:19 +0100
+
+scirius (1.1.13-1) stamus; urgency=medium
+
+  * New upstream version 1.1.13
+
+ -- Eric Leblond <eric@regit.org>  Thu, 03 Nov 2016 07:05:17 -0400
+
+scirius (1.1.12-4) stamus; urgency=medium
+
+  * suri-reloader: fix names in init script
+  * suri-reloader: fix init script
+
+ -- Eric Leblond <eric@regit.org>  Thu, 03 Nov 2016 07:00:12 -0400
+
+scirius (1.1.12-3) stamus; urgency=medium
+
+  * Add default file for suri-reloader
+
+ -- Eric Leblond <eric@regit.org>  Fri, 28 Oct 2016 10:01:37 +0200
+
+scirius (1.1.12-2) stamus; urgency=medium
+
+  * New upstream version 1.1.12
+  * Move postinst to per package
+  * init: install suri-reloader
+  * add deps for suri-reloader
+  * suricata is a deps
+
+ -- Eric Leblond <eric@regit.org>  Fri, 28 Oct 2016 09:47:00 +0200
+
+scirius (1.1.12-1) stamus; urgency=medium
+
+  * New upstream version 1.1.12
+  * Architecture is now any
+
+ -- Eric Leblond <eric@regit.org>  Tue, 25 Oct 2016 15:32:17 +0200
+
+scirius (1.1.12-rc1-1) stamus; urgency=medium
+
+  * New upstream version 1.1.12-rc1
+
+ -- Eric Leblond <eric@regit.org>  Sat, 22 Oct 2016 11:13:57 +0200
+
+scirius (1.1.12-beta2-1) stamus; urgency=medium
+
+  * sqlite: fix command run
+  * sqlite3: simplify and fix code
+  * Fix postinst
+  * Fix link to loca_settings
+  * Add static dir
+  * examples: fix supervisor configuration
+  * New upstream version 1.1.12-beta2
+
+ -- Eric Leblond <eric@regit.org>  Wed, 19 Oct 2016 11:31:51 +0200
+
+scirius (1.1.12-beta1-2) stamus; urgency=medium
+
+  * Use dh-virtualenv for building
+  * Remove some dependencies
+  * Ad nginx and supervisor config examples
+  * Update relative to dh-virtualenv
+  * Install nginx conf in site-available
+  * Add supervisor in recommends
+  * Fix path to db
+  * No more init.d
+  * No patch needed with dh-virtualenv
+  * File local_settings.py has moved
+  * Django migrate will handle migration
+  * Add builds deps to control
+  * New upstream version 1.1.12-beta1
+  * debian: add setuptools in build deps
+  * Fix sqlite3 script
+
+ -- Eric Leblond <eric@regit.org>  Wed, 19 Oct 2016 10:53:28 +0200
+
+scirius (1.1.11-1) stamus; urgency=medium
+
+  [ Eric Leblond ]
+  * migrate db in postinst
+
+  [ Peter Manev ]
+  * Settings: Add db back up directory.
+  * settings: Adjust settings for  EveBox.
+  * local_settings: add kibana dashboards path config option
+
+  [ Eric Leblond ]
+  * New upstream version 1.1.11
+
+ -- Eric Leblond <eric@regit.org>  Fri, 02 Sep 2016 16:22:49 +0200
+
+scirius (1.1.8-1) stamus; urgency=medium
+
+  [ Peter Manev ]
+  * Unix-socket: Drop back to psutil for Scirius
+  * Evebox: Add Evebox configuration to enable/enforce Scirius proxy
+  * Scirius: Amend configuration to enable/enforce Scirius proxy for Kibana
+  * Nginx: Amend stamus.conf to enable/enforce Scirius proxy for Kibana
+
+  [ Eric Leblond ]
+  * logstash: fix dot usage in logstash counters
+  * Imported Upstream version 1.1.8
+
+ -- Peter Manev <pmanev@stamus-networks.com>  Wed, 25 May 2016 09:29:23 +0200
+
+scirius (1.1.6-5) stamus; urgency=medium
+
+  * Imported Upstream official version 1.1.6
+
+ -- Eric Leblond <eric@regit.org>  Wed, 06 Apr 2016 14:13:06 +0200
+
+scirius (1.1.6-4) stamus; urgency=medium
+
+  * Imported Upstream version 1.1.6
+
+ -- Eric Leblond <eric@regit.org>  Wed, 06 Apr 2016 09:24:55 +0200
+
+scirius (1.1.6-3) stamus; urgency=medium
+
+  * Imported Upstream version 1.1.6
+
+ -- Eric Leblond <eric@regit.org>  Tue, 05 Apr 2016 18:03:51 +0200
+
+scirius (1.1.6-2) stamus; urgency=medium
+
+  * Imported Upstream version 1.1.6
+  * settings: use splitted indexes
+  * remove kibana url patch
+  * update settings for ES2
+  * Imported Upstream version 1.1.6
+
+ -- Eric Leblond <eric@regit.org>  Mon, 04 Apr 2016 16:41:21 +0200
+
+scirius (1.1.1-2) stamus; urgency=medium
+
+  * Add old-style migration
+  * Migrate accounts application in postinst
+  * Apply fake migration in case of failure
+
+ -- Eric Leblond <eric@regit.org>  Fri, 28 Aug 2015 08:40:30 +0200
+
+scirius (1.1.1-1) stamus; urgency=medium
+
+  * Add migration file.
+  * nginx: use 127.0.0.1 to avoid localhost issue
+  * Update Debian README
+  * Imported Upstream version 1.1.1
+
+ -- Eric Leblond <eric@regit.org>  Mon, 24 Aug 2015 14:40:51 +0200
+
+scirius (1.1.0-2) stamus; urgency=medium
+
+  * Imported Upstream version 1.1.0
+  * Install logstash configuration
+  * Refresh kibana URL patch
+  * Install scirius-logstash conf in correct place
+  * Use logstash and suricata stats
+  * Migration needed for this version
+  * Fix scirius logstash conf install
+  * logstash: type of EVE is SELKS
+
+ -- Eric Leblond <eric@regit.org>  Thu, 06 Aug 2015 19:04:20 +0200
+
+scirius (1.0.1-3) stamus; urgency=medium
+
+  * Attempt to fix the password reset
+
+ -- Eric Leblond <eric@regit.org>  Sun, 19 Apr 2015 09:53:12 +0200
+
+scirius (1.0.1-2) stamus; urgency=medium
+
+  * Add migration for 1.0.1-2
+
+ -- Eric Leblond <eric@regit.org>  Sat, 18 Apr 2015 15:59:29 +0200
+
+scirius (1.0.1-1) stamus; urgency=medium
+
+  * Imported Upstream version 1.0
+  * Add migration script for 1.0
+  * Fake release number to be able to upgrade
+
+ -- Eric Leblond <eric@regit.org>  Sat, 18 Apr 2015 11:08:43 +0200
+
+scirius (1.0-rc3-1) stamus; urgency=medium
+
+  * Imported Upstream version 1.0-rc3
+
+ -- Eric Leblond <eric@regit.org>  Fri, 03 Apr 2015 09:29:34 +0200
+
+scirius (1.0-rc2-4) stamus; urgency=medium
+
+  * Add psutil deps
+
+ -- Eric Leblond <eric@regit.org>  Thu, 12 Feb 2015 16:44:05 +0100
+
+scirius (1.0-rc2-3) stamus; urgency=medium
+
+  * Add missing migration
+
+ -- Eric Leblond <eric@regit.org>  Thu, 12 Feb 2015 15:38:27 +0100
+
+scirius (1.0-rc2-2) stamus; urgency=medium
+
+  * Update kibana url patch
+
+ -- Eric Leblond <eric@regit.org>  Thu, 12 Feb 2015 15:14:29 +0100
+
+scirius (1.0-rc2-1) stamus; urgency=medium
+
+  * Imported Upstream version 1.0-rc2
+
+ -- Eric Leblond <eric@regit.org>  Thu, 12 Feb 2015 15:01:01 +0100
+
+scirius (1.0-rc1-2) stamus; urgency=medium
+
+  * Imported Upstream version 1.0-rc1
+  * Adding migration
+
+ -- Eric Leblond <eric@regit.org>  Sun, 01 Feb 2015 19:56:37 +0100
+
+scirius (1.0-beta2.1-1) stamus; urgency=medium
+
+  * Imported Upstream version 1.0-beta2.1
+  * Add a migration
+
+ -- Eric Leblond <eric@regit.org>  Sat, 24 Jan 2015 23:54:10 +0100
+
+scirius (1.0-beta2-2) stamus; urgency=medium
+
+  * Add pytz deps
+
+ -- Eric Leblond <eric@regit.org>  Sun, 18 Jan 2015 20:21:27 +0100
+
+scirius (1.0-beta2-1) stamus; urgency=medium
+
+  * Imported Upstream version 1.0-beta2
+  * Add migration for 1.0-beta2
+
+ -- Eric Leblond <eric@regit.org>  Sun, 18 Jan 2015 20:05:59 +0100
+
+scirius (1.0-beta1-6) stamus; urgency=medium
+
+  * Change default url to server log instead of kibana
+  * nginx now serve kibana url
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 22:00:27 +0100
+
+scirius (1.0-beta1-5) stamus; urgency=medium
+
+  * Update init script for SELKS install
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 19:04:09 +0100
+
+scirius (1.0-beta1-4) stamus; urgency=medium
+
+  * Ignore error on stop in postinst
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 17:10:55 +0100
+
+scirius (1.0-beta1-3) stamus; urgency=medium
+
+  * Restart scirius
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 14:49:08 +0100
+
+scirius (1.0-beta1-2) stamus; urgency=medium
+
+  * Install default password on initial install
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 13:12:58 +0100
+
+scirius (1.0-beta1-1) stamus; urgency=medium
+
+  * Try a more robust services restart
+  * Imported Upstream version 1.0-beta1
+
+ -- Eric Leblond <eric@regit.org>  Wed, 12 Nov 2014 10:13:18 +0100
+
+scirius (0.10-3) stamus; urgency=medium
+
+  * Update install static
+
+ -- Eric Leblond <eric@regit.org>  Sun, 09 Nov 2014 16:49:47 +0100
+
+scirius (0.10-2) stamus; urgency=medium
+
+  * revroxy: add missing init
+  * Add bootstrap3
+  * Add missing directory
+  * Restart scirius in postinst
+  * Use selks-user as default user
+  * Fix version to apply upgrade
+  * Use scirius reverse proxy
+  * Restart nginx
+
+ -- Eric Leblond <eric@regit.org>  Fri, 07 Nov 2014 10:15:38 +0100
+
+scirius (0.10-1) stamus; urgency=medium
+
+  * Imported Upstream version 0.10
+  * Add accounts and fix request deps
+  * Add revproxy via quilt patch
+  * fix path for upgrade
+
+ -- Eric Leblond <eric@regit.org>  Fri, 07 Nov 2014 09:41:22 +0100
+
+scirius (0.9-2) stamus; urgency=medium
+
+  * Add deps on scripts and dashboard
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Sun, 12 Oct 2014 21:59:42 +0200
+
+scirius (0.9-1) stamus; urgency=medium
+
+  * get rid of some files
+  * File may be missing
+  * python-django already installed in SELKS
+  * sqlite3 needed by dbconfig
+  * Fix path of db
+  * restart is handled by package
+  * Add some needed dirs
+  * Sqlite file goes into scirius
+  * no appliances and  djcelery on OSS
+  * chown db to www-data
+  * force www-data as owner of db dir
+  * Imported Upstream version 0.9
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Sun, 12 Oct 2014 20:00:50 +0200
+
+scirius (0.8-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Eric Leblond <eleblond@stamus-networks.com>  Tue, 02 Sep 2014 11:13:00 +0200
