@@ -40,9 +40,6 @@ cmd = '''
     mkdir -p /usr/share/doc
     cp -R ./usr/share/doc/scirius /usr/share/doc
 
-    cp ./usr/bin/gunicorn /usr/bin
-    chmod 0755 /usr/bin/gunicorn
-    
     ln -s /etc/scirius/local_settings.py scirius/local_settings.py
     
     mkdir -p /usr/share/python3/scirius/lib
