@@ -42,5 +42,7 @@ cmd = '''
 
     cp ./usr/bin/gunicorn /usr/bin
     chmod 0755 /usr/bin/gunicorn
+    
+    ln -s scirius/local_settings.py /etc/scirius/local_settings.py
 '''
 exit_status = subprocess.call(cmd, shell=True)
