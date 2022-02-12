@@ -1,3 +1,4 @@
+import subprocess
 import os
 from setuptools import setup
 
