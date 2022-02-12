@@ -48,7 +48,7 @@ if set -q PYTHONHOME
 end
 
 function pydoc
-    python -m pydoc $argv
+    python3 -m pydoc $argv
 end
 
 if test -z "$VIRTUAL_ENV_DISABLE_PROMPT"

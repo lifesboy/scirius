@@ -30,7 +30,7 @@ endif
 
 unset env_name
 
-alias pydoc python -m pydoc
+alias pydoc python3 -m pydoc
 
 rehash
 
