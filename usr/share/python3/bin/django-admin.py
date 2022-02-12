@@ -1,4 +1,4 @@
-#!/usr/share/python3/scirius/bin/python
+#!/usr/share/python3/scirius/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

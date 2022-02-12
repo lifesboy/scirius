@@ -1,4 +1,4 @@
-#! /usr/bin/python2
+#! /usr/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'gunicorn==19.9.0','console_scripts','gunicorn'
 __requires__ = 'gunicorn==19.9.0'
 import re

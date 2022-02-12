@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import sys
 from shutil import copy
 from tempfile import NamedTemporaryFile
