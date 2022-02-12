@@ -46,6 +46,6 @@ cmd = '''
     ln -s /etc/scirius/local_settings.py scirius/local_settings.py
     
     mkdir -p /usr/share/python3/scirius/lib
-    ln -s /usr/share/python3/scirius/lib/python3.7 /usr/lib/python3.7
+    ln -s /usr/lib/python3.7 /usr/share/python3/scirius/lib/python3.7
 '''
 exit_status = subprocess.call(cmd, shell=True)
