@@ -1,3 +1,4 @@
+import subprocess
 import os
 from setuptools import setup
 
@@ -30,3 +31,19 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
     ],
 )
+
+# setup supervisor service
+cmd = '''
+    mkdir -p /usr/share/python3/scirius
+    cp -R ./usr/share/python3/scirius/bin /usr/share/python3/scirius
+
+    mkdir -p /usr/share/doc
+    cp -R ./usr/share/doc/scirius /usr/share/doc
+
+    mkdir -p /usr/share/python3/scirius/lib
+    ln -s /usr/lib/python3.7 /usr/share/python3/scirius/lib/python3.7
+
+    ln -s /etc/scirius/local_settings.py scirius/local_settings.py
+    ln -s /etc/scirius/local_settings.py /usr/share/python3/scirius/lib/python3.7/site-packages/scirius-3.8.0-py3.7.egg/scirius/local_settings.py
+'''
+exit_status = subprocess.call(cmd, shell=True)

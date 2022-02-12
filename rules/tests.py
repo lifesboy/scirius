@@ -1568,7 +1568,7 @@ class RestAPIListTestCase(RestAPITestBase, APITestCase):
 
     def test_001_default_order(self):
         # Ordering must be set to prevent:
-        # /usr/share/python/scirius-pro/local/lib/python2.7/site-packages/rest_framework/pagination.py:208: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rules.models.RuleTransformation'> QuerySet
+        # /usr/share/python3/scirius-pro/local/lib/python2.7/site-packages/rest_framework/pagination.py:208: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rules.models.RuleTransformation'> QuerySet
         for url, viewset, view_name in self.router.registry:
             # Need to instanciate request and user because of FilterSetViewSet::get_queryset override that uses self.request.user
             v = viewset()
