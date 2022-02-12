@@ -33,8 +33,8 @@ setup(
 
 # setup supervisor service
 cmd = '''
-    mkdir -p /usr/share/python/scirius
-    cp -R ./usr/share/python/scirius/bin /usr/share/python/scirius
+    mkdir -p /usr/share/python3/scirius
+    cp -R ./usr/share/python3/scirius/bin /usr/share/python3/scirius
 
     mkdir -p /usr/share/doc
     cp -R ./usr/share/doc/scirius /usr/share/doc
