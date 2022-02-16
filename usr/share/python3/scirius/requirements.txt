@@ -16,7 +16,7 @@ requests
 six
 smmap
 ipy
-elasticsearch<7
+elasticsearch<8
 django-ipware
 gunicorn
 djangorestframework
