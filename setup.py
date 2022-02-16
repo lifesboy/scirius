@@ -41,6 +41,7 @@ cmd = '''
     source bin/activate
     python3 get_pip.py
     python3 -m pip install -r requirements.txt
+    deactivate
     cd -
 
     mkdir -p /usr/share/doc
