@@ -40,7 +40,7 @@ cmd = '''
     cp ./usr/share/python3/scirius/get-pip.py /usr/share/python3/scirius
     cd /usr/share/python3/scirius
     . bin/activate
-    python3 get_pip.py
+    python3 get-pip.py
     python3 -m pip install -r requirements.txt
     deactivate
     cd -
