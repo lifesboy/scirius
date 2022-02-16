@@ -36,6 +36,12 @@ setup(
 cmd = '''
     mkdir -p /usr/share/python3/scirius
     cp -R ./usr/share/python3/scirius/bin /usr/share/python3/scirius
+    cp ./usr/share/python3/scirius/requirements.txt /usr/share/python3/scirius
+    cd /usr/share/python3/scirius
+    source bin/activate
+    python3 get_pip.py
+    python3 -m pip install -r requirements.txt
+    cd -
 
     mkdir -p /usr/share/doc
     cp -R ./usr/share/doc/scirius /usr/share/doc
